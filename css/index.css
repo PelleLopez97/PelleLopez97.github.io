@@ -1,0 +1,31 @@
+
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+
+      #barra-navegacion{
+        height: 5%;
+        background-color: gold;
+      }
+
+    
+      #barra-navegacion a{
+        border-style: none;
+        list-style: none;
+        list-style-type: none;
+        display: inline;
+        margin-top: 15px;
+        margin-right: 5px;
+        margin-left: 15px;
+        color: black;
+        font-size: 30px;
+      }
+
+      #barra-navegacion a:hover{
+        display: inline;
+        font-size: 33px;
+      }
+      
